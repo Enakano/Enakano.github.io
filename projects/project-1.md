@@ -2,28 +2,25 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+title: Nomisma
+permalink: projects/nomisma
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Secure Development
+summary: My team developed a simple money tracking application to apply secure development practices for our ICS 491 class.
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Nomisma is a money tracking application designed to keep track of expenses during trips, but does not require connecting to a banking system. A user sets up his or her initial balance and logs the various transactions they've done. The user is able to look into the various categories (Entertainment, food, transport, room, emergency). Targeted mainly for users who wish to track travel expenses.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was a contributing programmer who was responsible for programming the various user menus backends. I started with programming a basic, list based menu with a number of mockups of menu options as a proof of concept. After our team consolidated our designs of the full desired funcitonality of our application, I then refined the options and added the nessisary components and connections to fufil our design requirements. After the GUI was added I transferred to a quality assurance role to help mitigate some of the remaining security flaws as well as to troubleshoot a number of issues we had connecting our MySQL code to our database. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [Github Repository for our project](https://github.com/markent94/Nomisma/wiki).
 
 
 
