@@ -8,6 +8,7 @@ date: 2016
 labels:
   - Java
   - Secure Development
+  - Github
 summary: My team developed a simple money tracking application to apply secure development practices for our ICS 491 class.
 ---
 
