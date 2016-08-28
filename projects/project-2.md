@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/sudoku.jpg
 title: Sudoku Solver
 permalink: projects/Sudoku Solver
 date: 2015
@@ -12,7 +12,7 @@ labels:
 summary: A recursion based Sudoku puzzle solver I developed as part of my ICS 211 class.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/sudoku2.jpg">
 
 The Sudoku solver is a Java program that I created as an assignment in ICS 211, Spring 2015. The project helped me learn how to design and implement a recursive algorithm and gave me more experience with Java. Additionally this was the first time I actually had hands on experince with a Sudoku problem.
 
