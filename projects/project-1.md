@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/nomisma_logo.jpg
 title: Nomisma
 permalink: projects/nomisma
 date: 2016
@@ -13,8 +13,8 @@ summary: My team developed a simple money tracking application to apply secure d
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/nomisma.jpg">
+  <img class="ui image" src="../images/nomisma2.jpg">
 </div>
 
 Nomisma is a money tracking application designed to keep track of expenses during trips, but does not require connecting to a banking system. A user sets up his or her initial balance and logs the various transactions they've done. The user is able to look into the various categories (Entertainment, food, transport, room, emergency). Targeted mainly for users who wish to track travel expenses.
