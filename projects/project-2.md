@@ -2,23 +2,21 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Sudoku Solver
+permalink: projects/Sudoku Solver
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Data-structures
+  - Recursion
+summary: A recursion based Sudoku puzzle solver I developed as part of my ICS 211 class.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Sudoku solver is a Java program that I created as an assignment in ICS 211, Spring 2015. The project helped me learn how to design and implement a recursive algorithm and gave me more experience with Java. Additionally this was the first time I actually had hands on experince with a Sudoku problem.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The Sudoku solver was implemented using Eclipse, a popular integrated development platform. Portions of the program had been predesigned by the instructor, but the main puzzle solving logic portion of the program was left to me to complete. Within the week or so given to complete the assignment, my implementation of the solver was working quickly and effeciantly. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+ In this project I gained experience with implementing a recursive fucntion, Java programming, collaborative work, and how to sovle a Sudoku puzzle. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
