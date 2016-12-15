@@ -12,7 +12,7 @@ labels:
 summary: My team developed a simple money tracking application to apply secure development practices for our ICS 491 class.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium images">
   <img class="ui image" src="../images/nomisma.jpg">
   <img class="ui image" src="../images/nomisma2.jpg">
 </div>
