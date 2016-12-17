@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/nomisma_logo.jpg
+image: images/homescreen.png
 title: Manoa-Snackbox
 permalink: projects/manoa-snackbox
 date: Fall 2016
@@ -23,7 +23,7 @@ Being that Manoa-Snackbox was designed with UH students in mind, it requires the
 This application was developed as a group endeavour as a final project in our ICS 314 software engineering class. 
 It proved to be a great opporunity to test the skills and knowlege that the four of us had picked up during the semester, allowing us to hone and showcase our abilities with Javascript, HTML, CSS, Semantic UI, and Meteor development. 
 
-![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/homescreen.png)
+![](https://github.com/Enakano/Enakano.github.io/blob/master/images/homescreen.png)
 
 ###To find out more visit our page on github:
 
