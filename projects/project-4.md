@@ -32,6 +32,9 @@ It proved to be a great opporunity to test the skills and knowlege that the four
 ###Our team:
 
 [Alexander Sanchez](https://github.com/amsanchez93)
+
 [Derrick Comiso](https://github.com/derrick-comiso)
+
 [Egan Nakano](https://github.com/Enakano)
+
 [Joseph Nasca](https://github.com/jnasca)
