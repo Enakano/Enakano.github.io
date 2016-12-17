@@ -23,7 +23,7 @@ Being that Manoa-Snackbox was designed with UH students in mind, it requires the
 This application was developed as a group endeavour as a final project in our ICS 314 software engineering class. 
 It proved to be a great opporunity to test the skills and knowlege that the four of us had picked up during the semester, allowing us to hone and showcase our abilities with Javascript, HTML, CSS, Semantic UI, and Meteor development. 
 
-<img class="ui image" src="https://github.com/Enakano/Enakano.github.io/blob/master/images/homescreen.png")
+<img class="ui image" src="https://github.com/Enakano/Enakano.github.io/blob/master/images/homescreen.png">
 
 ###To find out more visit our page on github:
 
