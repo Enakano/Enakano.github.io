@@ -13,7 +13,6 @@ labels:
   - Software Engineering
 summary: My team and I developed an application to help UH Manoa students with their snack food needs.
 ---
-#Manoa-Snackbox
 
 Manoa-Snackbox is an application designed to provide UH Manoa students with information on the contents of vending machines on campus. 
 This applicaiton allows the user to find nearby vending machines, see what products are available or sold out, and view nutritional information about said products.
@@ -25,11 +24,11 @@ It proved to be a great opporunity to test the skills and knowlege that the four
 
 <img class="ui image" src="https://github.com/Enakano/Enakano.github.io/blob/master/images/homescreen.png">
 
-###To find out more visit our page on github:
+To find out more visit our page on github:
 
 <i class="large github icon"></i>[Manoa-Snackbox](https://manoa-snackbox.github.io/)
 
-###Our team:
+Our team:
 
 [Alexander Sanchez](https://github.com/amsanchez93)
 
