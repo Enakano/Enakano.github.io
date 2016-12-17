@@ -4,7 +4,7 @@ type: project
 image: images/homescreen.png
 title: Manoa-Snackbox
 permalink: projects/manoa-snackbox
-date: Fall 2016
+date: 2016
 labels:
   - HTML
   - CSS
