@@ -52,7 +52,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript(soon)"
+        "Javascript",
+        "Semantic UI",
+        "Meteor"
       ]
     },
     {
@@ -92,28 +94,6 @@
         "Maintain, update, and oversee macbooks and chomebooks for E.C. program", 
         "Other duties helping Early College students"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
