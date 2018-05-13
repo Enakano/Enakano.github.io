@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://Enakano.github.io/images/20160826_133754.jpg",
     "email": "enakano@hawaii.edu",
-    "phone": "808-4297-2786",
+    "phone": "808-429-2786",
     "website": "https://Enakano.github.io",
     "summary": "I just competed my B.A. degree in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa.",
     "location": {
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Security",
       "keywords": [
       ]
     },
     {
-      "name": "gamification",
+      "name": "Gamification",
       "keywords": [
       ]
     },
     {
-      "name": "education",
+      "name": "Education",
       "keywords": [
       ]
     }
