@@ -4,9 +4,9 @@
     "label": "Student",
     "picture": "https://Enakano.github.io/images/20160826_133754.jpg",
     "email": "enakano@hawaii.edu",
-    "phone": "",
+    "phone": "808-4297-2786",
     "website": "https://Enakano.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2018.",
+    "summary": "I just competed my B.A. degree in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96701",
@@ -53,6 +53,10 @@
         "C++",
         "Java",
         "Javascript",
+        "LISP",
+        "Perl",
+        "Prolog",
+        "NASM Assembly",
         "Semantic UI",
         "Meteor"
       ]
@@ -75,7 +79,7 @@
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.A.",
       "startDate": "2011-08-21",
-      "endDate": "Present",
+      "endDate": "Spring 2018",
       "gpa": "",
       "courses": [
       ]
@@ -84,15 +88,16 @@
   "work": [
     {
       "company": "Waipahu High School",
-      "position": "Paraprofessional Tutor",
-      "website": "http://www.edline.net/pages/Waipahu_High_School/Community/Waipahu_High_School_Early_Coll",
+      "position": "Para-professional Tutor",
+      "website": "https://www.waipahuhs-earlycollege.org/",
       "startDate": "2013-04-23",
       "endDate": "Present",
       "summary": "Assistant to the Director of Early College, Mark Silliman",
       "highlights": [
+        "Redesigned the official WHS Early College website",
         "Maintain, update, and oversee portions of official WHS Early College website",
-        "Maintain, update, and oversee macbooks and chromebooks for Early College program", 
-        "Other duties helping Early College students(registration, paperwork, tutoring)"
+        "Maintain, update, and oversee macbooks, windows laptops, and chromebooks for Early College program", 
+        "Other duties helping Early College students(help with registration, paperwork, or tutoring)"
       ]
     }
   ],
